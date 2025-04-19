@@ -78,11 +78,11 @@
 
 - Backend Deployment
     - Live Demo: The application is hosted on Render
-    - Access it here: 
+    - Access it here: https://startup-management-app.onrender.com/api/
 
 - Frontend Deployment
     - Live Demo: The application is hosted on Netlify.
-    - Access it here: 
+    - Access it here: https://dhruv-startup.netlify.app/
 
 ## 📌 Author
 
